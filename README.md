@@ -15,7 +15,7 @@
 
 # 📖 quiz-app: <a name="about-project"></a>
 
-This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in HTML and CSS. A mobile responsive portfolio landing page.
+This project is a simple web application we worked on showcasing my skills in javascript. It displays multiple choice questions and options to choose for the correct answer, also displaying the score and feedback for questions answered.
 
 **[simple-quiz-app project]** is an HTML,CSS and JAVASCRIPT project
 
@@ -24,7 +24,7 @@ This webpage shows a sneak peek into the project I have developed and deployed, 
 ### Tech Stack <a name="tech-stack"></a>
 - HTML
 - CSS
--JAVASCRIPT
+- JAVASCRIPT
 
 ### Key Features <a name="key-features"></a>
 - **A mobile responsive page with a minimum width of 375px and maximum width of 768px**
