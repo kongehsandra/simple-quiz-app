@@ -17,7 +17,7 @@
 
 This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in HTML and CSS. A mobile responsive portfolio landing page.
 
-**[online-hpt Project]** is an HTML and CSS project
+**[simple-quiz-app project]** is an HTML and CSS project
 
 ## 🛠 Built With <a name="built-with"></a>
 
