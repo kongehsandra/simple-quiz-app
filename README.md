@@ -17,12 +17,12 @@
 
 This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in HTML and CSS. A mobile responsive portfolio landing page.
 
-**[simple-quiz-app project]** is an HTML and CSS project
+**[simple-quiz-app project]** is an HTML,CSS and JAVASCRIPT project
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
+-JAVASCRIPT
 - HTML
 - CSS
 -JAVASCRIPT
