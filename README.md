@@ -22,7 +22,6 @@ This webpage shows a sneak peek into the project I have developed and deployed, 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
--JAVASCRIPT
 - HTML
 - CSS
 -JAVASCRIPT
