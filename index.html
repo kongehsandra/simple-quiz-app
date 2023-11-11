@@ -10,33 +10,39 @@
     <div class="main-container">
 <div class="quiz-container">
     <h1>Mac $ Sandra quiz app</h1>
-<p>What is the capital of France?</p>
+<p id="question"></p>
 <form action="">
-    <label for="">option1
+
+    <label>
         <input type="radio" name="answer" value="0">
-    </label><br>
-    <label for="">Option2
-        <input type="radio" name="answer" value="0">
-    </label><br>
-    <label for="">option3
-        <input type="radio" name="answer" value="0">
-    </label><br>
-    <label for="">option4
-        <input type="radio" name="answer" value="0">
+        <span id="option0"></span>
     </label>
+    <label>
+        <input type="radio" name="answer" value="1">
+        <span id="option1"></span>
+    </label>
+    <label>
+        <input type="radio" name="answer" value="2">
+        <span id="option2"></span>
+    </label>
+    <label>
+        <input type="radio" name="answer" value="3">
+        <span id="option3"></span>
+    </label>
+   
 </form>
 <div class="buttons">
-    <button type="button" class="next-button">Next</button>
-<button type="button" class="next-button">submit</button>
+    <button type="button" id="next-button">Next</button>
+<button type="button" id="submit-button">submit</button>
+<div id="feedback"></div>
 </div>
 </div>
 
-
+<div class="score-container">
+    <p>Score: <span id="score">0</span></p>
+</div>
     </div>
-    <div class="score-container">
-        <p>Score:</p>
-        <p class="p1">0</p>
-        </div>
-    
+   
+    <script src="script.js"></script>
 </body>
 </html>
