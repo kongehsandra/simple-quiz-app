@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>Mac & Sandra Quiz App</h1>
+        <p id="question">1. What is the capital of Cameroon?</p>
+        <form id="quiz-form">
+            <label>
+                <input type="radio" name="answer" value="0">
+                <span id="option0">Abuja</span>
+            </label>
+            <label>
+                <input type="radio" name="answer" value="1">
+                <span id="option1">Cairo</span>
+            </label>
+            <label>
+                <input type="radio" name="answer" value="2">
+                <span id="option2">Yaounde</span>
+            </label>
+            <label>
+                <input type="radio" name="answer" value="3">
+                <span id="option3">Nairobi</span>
+            </label>
+        </form>
+        <button id="next-button">Next</button>
+        <button id="submit-button">Submit</button>
+        <div id="feedback"></div>
+    </div>
+
+    <div class="score-container">
+        <p>Score: <span id="score">0</span></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
