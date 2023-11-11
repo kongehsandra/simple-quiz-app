@@ -103,7 +103,7 @@ You can deploy this project using:
 Contributions, issues, and feature requests are welcome!
 
 ## Live Demo <a></a>
-Visit this [link](https://kongehsandra.github.io/online-hpt/) to vview this project live.
+Visit this [link](https://kongehsandra.github.io/simple-quiz-app/) to vview this project live.
 
 
 ## ⭐️ Show your support <a name="support"></a>
